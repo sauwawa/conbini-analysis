@@ -26,7 +26,7 @@
   ![上位3ブランドのシェア](figs/top3_brand_share.png)
 
 - 都市別競争状況（Top 5都道府県）
-  ![都市別競争状況（Top 5都道府県）](figs/top5_prefecture_brand_share)
+  ![都市別競争状況（Top 5都道府県）](figs/top5_prefecture_brand_share.png)
   
 - 月別売上推移分析（ブランド別季節傾向）
   ![地域別売上推移](figs/monthly_sales_trend.png)
