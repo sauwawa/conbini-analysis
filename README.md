@@ -8,7 +8,8 @@
 
 ## 概要（Overview）
 - テーマ：全国コンビニ市場の地域別店舗数・売上推移・上位ブランドのシェア分析  
-- 使用技術：Python（pandas, matplotlib, seaborn, numpy, plotly）, Jupyter Notebook
+- 使用言語：Python（pandas, matplotlib, seaborn, numpy, plotly）
+- 開発環境：Jupyter Notebook
 - リポジトリ構成：`notebooks/`（Notebook）, `figs/`（図表）, `data/`（公開可能な小規模データ）
 
 ## 背景・目的（Background / Objective）
